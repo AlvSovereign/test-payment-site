@@ -1,0 +1,201 @@
+{
+  "intro": {
+    "en": "Create your Azoomee account",
+    "envf": "Create your Azoomee account",
+    "entr": "Azoomee hesabınızı oluşturun",
+    "esvf": "Crea tu cuenta Azoomee",
+    "itvf": "Crea il tuo account Azoomee",
+    "al": "Krijoni profilin tuaj në Azoomee",
+    "kpn": "Create your Azoomee account",
+    "tr": "Azoomee hesabınızı oluşturun"
+  },
+  "signupButtonText": {
+    "en": "Create your account",
+    "envf": "Create your account",
+    "entr": "Hesabınızı oluşturun",
+    "esvf": "Crea tu cuenta",
+    "itvf": "Crea il tuo account",
+    "al": "Krijoni llogarinë tuaj",
+    "kpn": "Create your account",
+    "tr": "Hesabınızı oluşturun"
+  },
+  "email": {
+    "placeholder": {
+      "en": "Enter your email",
+      "envf": "Enter your email",
+      "entr": "E-posta adresinizi girin",
+      "esvf": "Introduce tu correo electrónico",
+      "itvf": "Inserisci il tuo indirizzo email",
+      "fr": "Enter your email",
+      "al": "Vendosni këtu adresën tuaj të emailit",
+      "kpn": "Enter your email address",
+      "tr": "E-posta adresinizi girin"
+    },
+    "infotext": {
+      "en": "Create your Azoomee account",
+      "envf": "Create your Azoomee account",
+      "entr": "Azoomee hesabınızı oluşturun",
+      "esvf": "Crea tu cuenta Azoomee",
+      "itvf": "Crea il tuo account Azoomee",
+      "al": "Krijoni profilin tuaj në Azoomee",
+      "kpn": "Create your Azoomee account",
+      "tr": "Azoomee hesabınızı oluşturun"
+    },
+    "genericError": {
+      "en": "Please provide a valid email address",
+      "envf": "Please provide a valid email address",
+      "entr": "Lütfen geçerli bir e-posta adresi girin",
+      "esvf": "Por favor ingresa una dirección de correo electrónico válida",
+      "itvf": "Si prega di fornire un indirizzo email valido",
+      "al": "Ju lutem vendosni adresën tuaj të saktë të email",
+      "kpn": "Please provide a valid email address",
+      "tr": "Lütfen geçerli bir e-posta adresi girin"
+    },
+    "duplicateError": {
+      "en": "This email address already exists",
+      "envf": "This email address already exists",
+      "entr": "Bu e-posta adresi zaten kayıtlı",
+      "esvf": "Esta direccion de correo electronico ya existe",
+      "itvf": "Questo indirizzo email esiste già",
+      "al": "Kjo adresë emaili është përdorur më parë",
+      "kpn": "This email address already exists",
+      "tr": "Bu e-posta adresi zaten kayıtlı"
+    }
+  },
+  "password": {
+    "placeholder": {
+      "en": "Create a password",
+      "envf": "Create a password",
+      "entr": "Şifrenizi oluşturun",
+      "esvf": "Crea una contraseña",
+      "itvf": "Crea una password",
+      "al": "Krijoni një fjalëkalim",
+      "kpn": "Create a password",
+      "tr": "Şifrenizi oluşturun"
+    },
+    "infotext": {
+      "en": "Create a password (minimum 6 characters)",
+      "envf": "Create a password (minimum 6 characters)",
+      "entr": "Şifreniz en az 6 karakter uzunluğunda olmalı",
+      "esvf": "Su contraseña debe tener al menos 6 caracteres",
+      "itvf": "Crea una password",
+      "al": "Fjalëkalimi juaj duhet të përmbajë të paktën 6 karaktere",
+      "kpn": "Create a password (minimum 6 characters)",
+      "tr": "Şifreniz en az 6 karakter uzunluğunda olmalı"
+    },
+    "policyError": {
+      "en": "Your password needs to be at least 6 characters in length",
+      "envf": "Your password needs to be at least 6 characters in length",
+      "entr": "Şifreniz en az 6 karakter uzunluğunda olmalı",
+      "esvf": "Su contraseña debe tener al menos 6 caracteres",
+      "itvf": "La password deve essere formata almeno da 6 caratteri.",
+      "al": "Fjalëkalimi juaj duhet të përmbajë të paktën 6 karaktere",
+      "kpn": "Your password needs to be at least 6 characters in length",
+      "tr": "Şifreniz en az 6 karakter uzunluğunda olmalı"
+    }
+  },
+  "voucher": {
+    "placeholder": {
+      "en": "Enter your voucher",
+      "envf": "Enter your voucher",
+      "entr": "Kampanya şifrenizi giriniz",
+      "esvf": "Introduce tu cupón",
+      "itvf": "Inserisci il codice",
+      "al": "Vendosni këtu kodin tuaj dixhital",
+      "kpn": "Enter your voucher"
+    },
+    "infotext": {
+      "line1": {
+        "en": "Enter your voucher code",
+        "envf": "Enter your Vodafone voucher code",
+        "entr": "Vodafone kampanya şifrenizi giriniz",
+        "esvf": "Introduce tu código de cupón Vodafone",
+        "itvf": "Inserisci il codice del tuo voucher Vodafone.",
+        "al": "Vendosni kodin tuaj dixhital",
+        "kpn": "Enter your voucher code"
+      },
+      "line2": {
+        "en": "It's printed on your Vodafone leaflet",
+        "envf": "",
+        "entr": "",
+        "esvf": "",
+        "itvf": "",
+        "al": "",
+        "kpn": "",
+        "tr": ""
+      }
+    },
+    "error": {
+      "en": "The voucher code you entered was not valid",
+      "envf": "The voucher code you entered was not valid",
+      "entr": "Girdiğiniz kampanya şifresi geçersiz",
+      "esvf": "El código de cupón que ha introducido no es válido",
+      "itvf": "Il codice promozionale inserito non è valido",
+      "al": "Kodi i vendosur nuk është i vlefshëm",
+      "kpn": "The voucher code you entered was not valid",
+      "tr": "Girdiğiniz kupon kodu geçersiz"
+    }
+  },
+  "checkboxes": {
+    "en": "Please confirm that",
+    "envf": "Please confirm that",
+    "entr": "Aşağıdakileri onaylayarak üyeliğinizi başlatın:",
+    "esvf": "Por favor confirma",
+    "itvf": "Si prega di confermare.",
+    "al": "Ju lutem  konfirmoni që",
+    "kpn": "Please confirm that",
+    "tr": "Aşağıdakileri onaylayarak üyeliğinizi başlatın:",
+    "boxes": {
+      "over18": {
+        "en": "You are over 18",
+        "envf": "You are over 18",
+        "entr": "18 yaşından büyüğüm.",
+        "esvf": "Tengo más de 18 años",
+        "itvf": "Hai almeno 18 anni.",
+        "al": "Jeni mbi 18 vjeç",
+        "kpn": "You are over 18",
+        "tr": "18 yaşından büyüğüm."
+      },
+      "TandC": {
+        "en": "You agree to our <a href=\"http://azoomee.com/index.php/terms-and-conditions/\">terms and conditions</a> and <a href=\"http://azoomee.com/index.php/privacy-policy-2/\">privacy policy</a>",
+        "envf": "You agree to our terms and conditions and privacy policy available in the footer below",
+        "entr": "Hüküm ve Koşulları ve Gizlilik Politikasını kabul ediyorum.",
+        "esvf": "Estoy de acuerdo con los términos y condiciones y la política de privacidad disponibles debajo",
+        "itvf": "Accetti i nostri termini e condizioni e politica sulla privacy disponibili nel piè di pagina in basso",
+        "al": "Ju pranoni kushtet, afatet dhe <a href=\"http://azoomee.com/index.php/terms-and-conditions/\">politikën</a> e <a href=\"http://azoomee.com/index.php/privacy-policy-2/\">privatësisë</a> të Azoomee",
+        "kpn": "You agree to our terms and conditions and privacy policy available in the footer below",
+        "tr": "Hüküm ve Koşulları ve Gizlilik Politikasını kabul ediyorum."
+      },
+      "marketingOptIn": {
+        "en": "You agree to receive marketing materials from Azoomee (optional). You can also opt-out in the future at any time.",
+        "envf": "You agree to receive marketing materials from Azoomee and Vodafone (optional). You can also opt-out in the future at any time.",
+        "entr": "Azoomee ve Vodafone'dan pazarlama iletişimi almayı kabul ediyorum. (İsteğe bağlı) Bu seçiminizi istediğiniz zaman değiştirebilirsiniz.",
+        "esvf": "Acepto recibir material de marketing de Azoomee y Vodafone (opcional). Se puede cancelar esta opción en el futuro en cualquier momento",
+        "al": "Ju pranoni të merrni materiale marketingunga Azoomee (opsionale) nga të cilat mund çrregjistroheni në cdo moment.",
+        "itvf": "Accetti di ricevere materiale di marketing da Azoomee e Vodafone (opzionale). È inoltre possibile cambiare il tuo consenso in futuro in qualsiasi momento",
+        "kpn": "You agree to receive marketing materials from Azoomee (optional). You can also opt-out in the future at any time.",
+        "tr": "Azoomee'den pazarlama iletişimi almayı kabul ediyorum.(İsteğe bağlı) Bu seçiminizi istediğiniz zaman değiştirebilirsiniz."
+      }
+    }
+  },
+  "datause": {
+    "en": "<div class=\"datauseHeader\">We use your personal information for the following purposes:</div> <ul><li>To create a unique Azoomee account</li><li>To contact you when there are important service notifications</li><li>To identify your account should you contact us for support</li></ul>",
+    "envf": "<div class=\"datauseHeader\">We use your personal information for the following purposes:</div> <ul><li>To create a unique Azoomee account</li><li>To contact you when there are important service notifications</li><li>To identify your account should you contact us for support</li></ul>",
+    "entr": "<div class=\"datauseHeader\">Kişisel bilgilerinizi aşağıdaki amaçlar için kullanacağız:</div> <ul><li>Kişiye özel bir Azoomee hesabı oluşturmak</li><li>Önemli hizmet bildirimleri olduğunda sizinle iletişim kurmak</li><li>Destek için bizimle iletişime geçtiğinizde hesabınızı teyit etmek</li></ul>",
+    "esvf": "<div class=\"datauseHeader\">Utilizamos su información personal para los siguientes fines:</div> <ul><li>Para crear una única cuenta Azoomee</li><li>Para ponernos en contacto con usted cuando haya notificaciones importantes sobre nuestro servicio</li><li>Para poder identificar su cuenta al abrir un caso con nuestro soporte</li></ul>",
+    "itvf": "<div class=\"datauseHeader\">Utilizziamo i tuoi dati personali per i seguenti scopi:</div> <ul><li>Per creare un account unico Azoomee</li><li>Per contattare l'utente quando ci sono importanti notifiche di servizio</li><li>Per identificare il tuo account è necessario contattarci per il supporto</li></ul>",
+    "al": "<div class=\"datauseHeader\">Informacioni juaj personal mund të përdoret për qëllimet e meposhtme:</div> <ul><li>Për të krijuar profilin tuaj unik në Azoomee.</li><li>Për t'ju kontaktuar në rast se ka lajmerime për shërbimin Azoomee.</li><li>Për të identifikuar profilin tuaj në rast se na kontaktoni për suport.</li></ul>",
+    "kpn": "<div class=\"datauseHeader\">We use your personal information for the following purposes:</div> <ul><li>To create a unique Azoomee account</li><li>To contact you when there are important service notifications</li><li>To identify your account should you contact us for support</li></ul>",
+    "tr": "<div class=\"datauseHeader\">Kişisel bilgilerinizi aşağıdaki amaçlar için kullanacağız:</div> <ul><li>Kişiye özell bir Azoomee hesabı oluşturmak</li><li>Önemli hizmet bildirimleri olduğunda sizinle iletişim kurmak</li><li>Destek için bizimle iletişime geçtiğinizde hesabınızı teyit etmek</li></ul>"
+  },
+  "genericError": {
+    "en": "Something went wrong.",
+    "envf": "Something went wrong.",
+    "entr": "Bir şeyler yanlış gitti",
+    "esvf": "Algo salió mal",
+    "itvf": "Qualcosa è andato storto",
+    "al": "Dicka nuk funksionoi sic duhet",
+    "kpn": "Something went wrong.",
+    "tr": "Bir şeyler yanlış gitti"
+  }
+}

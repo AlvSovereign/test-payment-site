@@ -1,0 +1,60 @@
+{
+  "prefetchRate": 5,
+  "maxThreads": null,
+  "disableRoutePrefixing": false,
+  "outputFileRate": 100,
+  "extensions": [
+    ".js",
+    ".jsx",
+    ".ts",
+    ".tsx"
+  ],
+  "minLoadTime": 200,
+  "disablePreload": false,
+  "disableRuntime": false,
+  "preloadPollInterval": 300,
+  "productionSourceMaps": false,
+  "silent": false,
+  "entry": "/Users/alvin/Desktop/Azoomee/test-payment/src/index.tsx",
+  "plugins": [
+    "react-static-plugin-typescript",
+    "/Users/alvin/Desktop/Azoomee/test-payment/node_modules/react-static-plugin-reach-router/browser.api.js",
+    "/Users/alvin/Desktop/Azoomee/test-payment/node_modules/react-static-plugin-sitemap/dist/node.api.js",
+    "react-static-plugin-styled-components",
+    "/Users/alvin/Desktop/Azoomee/test-payment"
+  ],
+  "paths": {
+    "ROOT": "/Users/alvin/Desktop/Azoomee/test-payment",
+    "SRC": "/Users/alvin/Desktop/Azoomee/test-payment/src",
+    "DIST": "/Users/alvin/Desktop/Azoomee/test-payment/dist",
+    "ASSETS": "/Users/alvin/Desktop/Azoomee/test-payment/dist",
+    "PLUGINS": "/Users/alvin/Desktop/Azoomee/test-payment/plugins",
+    "TEMP": "/Users/alvin/Desktop/Azoomee/test-payment/tmp",
+    "ARTIFACTS": "/Users/alvin/Desktop/Azoomee/test-payment/artifacts",
+    "PUBLIC": "/Users/alvin/Desktop/Azoomee/test-payment/public",
+    "NODE_MODULES": "/Users/alvin/Desktop/Azoomee/test-payment/node_modules",
+    "EXCLUDE_MODULES": "/Users/alvin/Desktop/Azoomee/test-payment/node_modules",
+    "PACKAGE": "/Users/alvin/Desktop/Azoomee/test-payment/package.json",
+    "HTML_TEMPLATE": "/Users/alvin/Desktop/Azoomee/test-payment/dist/index.html",
+    "STATIC_DATA": "/Users/alvin/Desktop/Azoomee/test-payment/dist/staticData"
+  },
+  "siteRoot": "/",
+  "basePath": "",
+  "publicPath": "/",
+  "assetsPath": "",
+  "extractCssChunks": false,
+  "inlineCss": false,
+  "babelExcludes": [],
+  "devServer": {
+    "host": "localhost",
+    "port": 3000
+  },
+  "terser": {
+    "terserOptions": {
+      "mangle": {},
+      "parse": {},
+      "compress": {},
+      "output": {}
+    }
+  }
+}
