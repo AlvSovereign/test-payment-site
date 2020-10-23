@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useForm } from 'react-hook-form';
 // import { FormProps } from './types';
 import { useStateMachine } from 'little-state-machine';
@@ -20,6 +20,7 @@ const UserDetailsForm = ({
   const { action, state } = useStateMachine(updateAction);
   const { action: stepAction } = useStateMachine(completeStep);
   const { register, handleSubmit, errors } = useForm();
+  const [btInstance, setBtInstance] = useState(null);
 
   useEffect(() => {
     stepAction(initialStepState.stepsCompleted);
@@ -40,6 +41,8 @@ const UserDetailsForm = ({
   };
 
   const callback = (err, dropinInstance) => {
+    console.log('dropinInstance: ', dropinInstance);
+    setBtInstance(dropinInstance);
     if (err) {
       // Handle any errors that might've occurred when creating Drop-in
       console.error(err);
@@ -117,6 +120,7 @@ const UserDetailsForm = ({
       <BraintreeDropin
         authorization='sandbox_kt95s7f3_8ckhmxwn5p9bcywd'
         callback={callback}
+        btInstance={btInstance}
       />
       <button className='button' type='submit'>
         Submit
